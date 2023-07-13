@@ -1,4 +1,4 @@
-![image](https://github.com/MPGarg/ERA1_Session10/assets/120099863/92c29afa-da25-432f-ac42-b22806384614)# Assignment-8
+# Assignment-8
 
 ## Problem Statement
 
