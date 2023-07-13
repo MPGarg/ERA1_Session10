@@ -29,6 +29,6 @@ Last Few Epochs:
 
 * One Cycle Policy helps in speeding of learning for the model
 * Learning rate (maximum & minimum) can vary as per initialized weights of model and need to be determined for that particular model initialization
-* Model was able to run quickly and achieve 93.02% testing accuracy in 24 epoch
-* Model was overfitting and regularizations (Dropout & L2) are used to limit overfitting
+* Model is able to run quickly and achieve 92.65% testing accuracy in 24 epoch
+* Model is overfitting and regularizations can be used to limit overfitting
 
